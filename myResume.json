@@ -41,7 +41,7 @@
 			"Computer Science & Engineering"
 		]
 	}],
-	"Projects": [{
+	"projects": [{
 		"title": "Inventrom Website",
 		"details": "A Website buit using HTML,CSS and JavaScript",
 		"link": "https://prateek1057.github.io/Inventrom/"
@@ -53,6 +53,5 @@
 		"name": "Sports",
 		"keywords": ["Football", "Cricket", "Badminton"]
 	}],
-	"references": []
-	
+	"references": []	
 }
