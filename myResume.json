@@ -13,8 +13,7 @@
 			"countryCode": "India",
 			"region": "Rajasthan"
 		},
-		"profiles": [
-			{
+		"profiles": [{
 				"network": "Github",
 				"username": "prateek1057",
 				"url": "https://github.com/prateek1057/"
@@ -42,7 +41,7 @@
 			"Computer Science & Engineering"
 		]
 	}],
-	"publications": [{
+	"Projects": [{
 		"title": "Inventrom Website",
 		"details": "A Website buit using HTML,CSS and JavaScript",
 		"link": "https://prateek1057.github.io/Inventrom/"
@@ -54,5 +53,5 @@
 		"name": "Sports",
 		"keywords": ["Football", "Cricket", "Badminton"]
 	}],
-	
+	"references": []
 }
