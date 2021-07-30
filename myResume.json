@@ -1,0 +1,58 @@
+{
+	"basics": {
+		"name": "Prateek Sharma",
+		"label": "Student",
+		"picture": "",
+		"email": "sprateek457@gmail.com",
+		"phone": "(+91) 8058604260",
+		"summary": "A coding enthusiast with the concepts of Object Oriented Programming(OOP) and Web Developing languages and Tools. ",
+		"location": {
+			"address": "Khandupura",
+			"postalCode": "326034",
+			"city": "Pirawa",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "prateek1057",
+				"url": "https://github.com/prateek1057/"
+			},
+			{
+				"network": "linkedin",
+				"username": "prateek-sharma-641200216",
+				"url": "https://www.linkedin.com/in/prateek-sharma-641200216/"
+			},
+			{
+				"network": "Instagram",
+				"username": "prateek_jagdish_sharma",
+				"url": "https://www.instagram.com/prateek_jagdish_sharma/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "22-07-2019 //Date",
+		"endDate": "30-06-2023",
+		"gpa": "7.35",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"publications": [{
+		"title": "Inventrom Website",
+		"details": "A Website buit using HTML,CSS and JavaScript",
+		"link": "https://prateek1057.github.io/Inventrom/"
+	}],
+	"skills": [{
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Java", "Bootstrap", "SQL"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Football", "Cricket", "Badminton"]
+	}],
+	
+}
