@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Prateek Sharma",
 		"label": "Student",
-		"picture": "IMG_20190614_123358_776.jpg",
+		"picture":"https://i.ibb.co/3r37Thc/IMG-20190614-123358-776.jpg",
 		"email": "sprateek457@gmail.com",
 		"phone": "(+91) 8058604260",
 		"summary": "A coding enthusiast with the concepts of Object Oriented Programming(OOP) and Web Developing languages and Tools. ",
@@ -35,7 +35,7 @@
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "22-07-2019 //Date",
-		"endDate": "30-06-2023",
+		"endDate": "",
 		"cgpa": "7.35",
 		"courses": [
 			"Computer Science & Engineering"
