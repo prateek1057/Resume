@@ -4,24 +4,34 @@
 		"label": "Student",
 		"picture":"https://i.ibb.co/dJqGp6h/IMG-20210402-140200-526.jpg",
 		"email": "sprateek457@gmail.com",
-		"phone": "(+91) 8058604260",
-		"summary": "A coding enthusiast with the concepts of Object Oriented Programming(OOP) and Web Developing languages and Tools. ",
+		"phone": "(+91)8058604260",
+		"summary": "A self-motivated final-year undergraduate with the ability to adapt state-of-art technologies. According to the requirements of the workflow, implemented diverse technical projects in the course. ",
 		"location": {
-			"address": "Khandupura",
+			
 			"postalCode": "326034",
 			"city": "Pirawa",
 			"countryCode": "India",
 			"region": "Rajasthan"
 		},
 		"profiles": [{
+				"network": "linkedin",
+				"username": "prateek-sharma-641200216",
+				"url": "https://www.linkedin.com/in/prateek-sharma-641200216/"
+			},
+			{
 				"network": "Github",
 				"username": "prateek1057",
 				"url": "https://github.com/prateek1057/"
 			},
 			{
-				"network": "linkedin",
-				"username": "prateek-sharma-641200216",
-				"url": "https://www.linkedin.com/in/prateek-sharma-641200216/"
+				"network": "Codeforces",
+				"username": "prateek1057",
+				"url": "https://codeforces.com/profile/prateek1057"
+			},
+			{
+				"network": "Codechef",
+				"username": "prateek1320",
+				"url": "https://www.codechef.com/users/prateek1320"
 			},
 			{
 				"network": "Instagram",
@@ -31,12 +41,12 @@
 		]
 	},
 	"education": [{
-		"institution": "Indian Institute of Information technology,kota",
+		"institution": "Indian Institute of Information Technology,Kota",
 		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
+		"studyType": "Bachelor of Technology(hons)",
 		"startDate": "22-07-2019",
-		"endDate": "",
-		"cgpa": "7.35",
+		//"endDate": "",
+		"cgpa": "7.37",
 		"courses": [
 			"Computer Science & Engineering"
 		]
