@@ -45,7 +45,7 @@
 		"area": "Engineering",
 		"studyType": "Bachelor of Technology(hons)",
 		"startDate": "22-07-2019",
-		//"endDate": "",
+		"endDate": "",
 		"cgpa": "7.37",
 		"courses": [
 			"Computer Science & Engineering"
