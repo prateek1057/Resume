@@ -45,7 +45,13 @@
 		"title": "Inventrom Website",
 		"details": "A Website buit using HTML,CSS and JavaScript",
 		"link": "https://prateek1057.github.io/Inventrom/"
-	}],
+	},
+	{
+		"title": "Shopping Cart",
+		"details": "Implemented Shopping-Cart using React. Updated component state and other data dynamically.",
+		"link": "https://shopping-cart-zeta-ten.vercel.app/"
+	},	     
+		    ],
 	"skills": [{
 		"keywords": ["C", "C++", "Java", "Python","Data Structures and Algorithms", "Competitive Coding", "Problem Solving", "HTML", "CSS", "JavaScript", "Bootstrap", "React.js","Node.js","Express.js", "MongoDB","MySQL","DBMS","Operating Systems", "Object-Oriented Programming"]
 	}],
